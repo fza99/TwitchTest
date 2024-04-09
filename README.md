@@ -3,11 +3,11 @@
 
 - ### 📝 The main Frameworks included in the project:
 
- *Selenium WebDriver*
+    *Selenium WebDriver*
  
- *Python*
+    *Python*
  
- *Pytest*
+    *Pytest*
  - ### 🔍️ Covered Test case in this project :
 #### ✅Test Case 1: Test case to search for a streamer on Twitch, handle popups, wait for page load, and take a screenshot.
    #### Steps:
