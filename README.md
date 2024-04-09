@@ -1,8 +1,7 @@
 # # ✨ *Automation Exercise* ==> *TwitchTest* ✨ 
- - ### 🌐 Website URL: https://m.twitch.tv/
+- ### 🌐 Website URL: https://m.twitch.tv/
 
 - ### 📝 The main Frameworks included in the project:
- **SHAFT Engine on the Top of:**
 
  *Selenium WebDriver*
  
