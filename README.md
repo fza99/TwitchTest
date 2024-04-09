@@ -11,7 +11,8 @@
  *Pytest*
  - ### 🔍️ Covered Test case in this project :
 #### ✅Test Case 1: Test case to search for a streamer on Twitch, handle popups, wait for page load, and take a screenshot.
-   Steps:
+   #### Steps:
+   
     1. Launch Chrome emulator (headless for efficiency).
     
     2. Navigate to Twitch.
@@ -31,6 +32,7 @@
     9. Quit the browser.
 
   Notes:
+  
     - This test case prioritizes efficiency by using headless Chrome and waiting specifically for relevant elements.
     
     - Consider refining the popup handling logic based on specific modal/popup characteristics.
