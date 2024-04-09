@@ -1,5 +1,5 @@
-# # ✨ *Automation Exercise* ==> *WAP* *Test Automation* ✨ TwitchTest
-### 🌐 Website URL: https://m.twitch.tv/
+# # ✨ *Automation Exercise* ==> *TwitchTest* ✨ 
+ - ### 🌐 Website URL: https://m.twitch.tv/
 
 - ### 📝 The main Frameworks included in the project:
  **SHAFT Engine on the Top of:**
@@ -12,8 +12,10 @@
  - ### 🔍️ Covered Test case in this project :
 #### ✅Test Case 1: Test case to search for a streamer on Twitch, handle popups, wait for page load, and take a screenshot.
    Steps:
-    1. Launch Chrome emulator (headless for efficiency)
-    2. Navigate to Twitch
+    1. Launch Chrome emulator (headless for efficiency).
+    
+    2. Navigate to Twitch.
+    
     3. Click the search icon
     4. Input "StarCraft II" in the search bar
     5. Scroll down twice to simulate user behavior
