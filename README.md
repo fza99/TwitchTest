@@ -35,4 +35,9 @@
     - This test case prioritizes efficiency by using headless Chrome and waiting specifically for relevant elements.
     
     - Consider refining the popup handling logic based on specific modal/popup characteristics.
+
+   Execution for the test 
+    ![HomeTest](https://github.com/fza99/TwitchTest/assets/46420106/15f1dc1a-709a-40a0-958c-315338eb59be)
+
+    
     
